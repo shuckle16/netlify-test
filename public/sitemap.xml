@@ -3,17 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://stoic-shaw-21b017.netlify.com/posts/my-first-post/</loc>
+    <lastmod>2019-04-09T17:57:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stoic-shaw-21b017.netlify.com/</loc>
+    <lastmod>2019-04-09T17:57:25-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://stoic-shaw-21b017.netlify.com/posts/</loc>
+    <lastmod>2019-04-09T17:57:25-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://stoic-shaw-21b017.netlify.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stoic-shaw-21b017.netlify.com/tags/</loc>
     <priority>0</priority>
   </url>
   
