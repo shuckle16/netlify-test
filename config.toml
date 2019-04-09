@@ -1,4 +1,4 @@
-baseURL = "https://stoic-shaw-21b017.netlify.com/"
+baseURL = "/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-tranquilpeak-theme"
